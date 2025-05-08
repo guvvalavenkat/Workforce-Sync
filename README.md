@@ -41,10 +41,7 @@ It aims to boost productivity and transparency by giving real-time insights into
 
 | Dashboard View | Employee Management | Project Assignment |
 |----------------|---------------------|--------------------|
-| ![Dashboard](![dashboard](https://github.com/user-attachments/assets/e1add65b-26ce-4fca-aa15-97a95bd4612f)
-) | ![Employees](![9918d1258e7b4b3a96d586c74ceb753d](https://github.com/user-attachments/assets/4f35bc70-7ef4-4a73-acdc-f803aa372205)
-) | ![Assignment](![project assign](https://github.com/user-attachments/assets/405b43f9-3ca9-4788-84bb-592f88fcba10)
-) |
+| ![Dashboard](![dashboard](https://github.com/user-attachments/assets/e1add65b-26ce-4fca-aa15-97a95bd4612f)) | ![Employees](![9918d1258e7b4b3a96d586c74ceb753d](https://github.com/user-attachments/assets/4f35bc70-7ef4-4a73-acdc-f803aa372205)) | ![Assignment](![project assign](https://github.com/user-attachments/assets/405b43f9-3ca9-4788-84bb-592f88fcba10)) |
 
 ---
 
