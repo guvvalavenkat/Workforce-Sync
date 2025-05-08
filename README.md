@@ -52,7 +52,11 @@ It aims to boost productivity and transparency by giving real-time insights into
 
 - 🎓 **Course:** Software Engineering & Project Management (SEPM)
 - 🏫 **Institution:** SRM School of Computing, SRMIST, Chennai
-- 👨‍💻 **Developer:** Guvvala Venkata Srikanth
+## 👨‍💻 Developers
+
+- **Guvvala Venkat Reddy**
+- **K Kalyan Saran**
+- **M Saran**
 
 ---
 
