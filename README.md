@@ -45,3 +45,26 @@ It aims to boost productivity and transparency by giving real-time insights into
 
 ---
 
+
+---
+
+## 📚 Academic Info
+
+- 🎓 **Course:** Software Engineering & Project Management (SEPM)
+- 🏫 **Institution:** SRM School of Computing, SRMIST, Chennai
+- 👨‍💻 **Developer:** Guvvala Venkata Srikanth
+
+---
+
+## 📌 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/guvvalavenkat/Workforce-Sync.git
+cd Workforce-Sync
+
+# Install dependencies
+npm install   # or pip install -r requirements.txt (if Flask)
+
+# Start the application
+npm start     # or python app.py
